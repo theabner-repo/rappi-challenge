@@ -68,3 +68,11 @@ minLevel = 5
 maxLevel = 7
 
 ## Resultados
+
+26
+
+11
+
+0
+
+1
