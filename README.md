@@ -2,6 +2,9 @@
 
 Este es el repo del video acerca del challenge de Rappi para su proceso de reclutamiento como iOS Software Engineer en México 🇲🇽
 
+Video del repo: https://youtu.be/5qXzjUyYf1k
+
+
 ## Challenge
 
 *"Team Formation 2"*
